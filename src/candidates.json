@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Yair Lapid",
+    "picture": "images/lapid.jfif"
+  },
+  {
+    "id": 1,
+    "name": "Benjamin Netanyau",
+    "picture": "images/bibi.jfif"
+  },
+  {
+    "id": 2,
+    "name": "Naftali Benet",
+    "picture": "images/benet.jfif"
+  },
+  {
+    "id": 3,
+    "name": "Beni Gantz",
+    "picture": "images/gantz.jfif"
+  }
+]
